@@ -1,0 +1,48 @@
+
+.tg_box {
+  height: 600px;
+  background-color: #dbdbdb;
+  border-top: 2px solid #ff0000;
+}
+.tg_nav {
+  width: 25%;
+  height: 600px;
+  padding: 20px;
+  border: 1px solid #fff;
+}
+.tgForm {
+  text-align: center;
+}
+.form_text input {
+  width: 175px;
+}
+.form_text {
+  margin: 15px 0;
+}
+.form_text button {
+  width: 80px;
+  margin: 20px 0 0 20px;
+}
+.tg_content {
+  width: 75%;
+  overflow: auto;
+  border: 1px solid #fff;
+  background-color: #fff;
+  text-align:center;
+}
+.tg_ans {
+  position: relative;
+  vertical-align: top;
+  display: inline-block;
+  float: left;
+}
+.selOne li {
+  display: inline-block;
+  padding: 0 10px;
+}
+.selOne a {
+  display: inline-block;
+  style-list: none;
+  text-decoration: none;
+
+}

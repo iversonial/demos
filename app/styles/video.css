@@ -1,0 +1,38 @@
+
+.video_box {
+  height: 600px;
+
+  border-top: 2px solid #ff0000;
+}
+.video_nav {
+  width: 25%;
+  height: 600px;
+  padding: 20px;
+  border: 1px solid #fff;
+}
+.videoForm {
+  text-align: center;
+}
+.form_text input {
+  width: 175px;
+}
+.form_text {
+  margin: 15px 0;
+}
+.form_text button {
+  width: 80px;
+  margin: 20px 0 0 20px;
+}
+.video_content {
+  width: 75%;
+  height: 600px;
+  overflow: auto;
+  border: 1px solid #fff;
+  background-color: #000;
+}
+.video_ans {
+  position: relative;
+  vertical-align: top;
+  display: inline-block;
+  float: left;
+}
